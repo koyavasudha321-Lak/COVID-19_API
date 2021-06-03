@@ -1,0 +1,2 @@
+AngularJs : 1.8.2
+HTML : HTML5
